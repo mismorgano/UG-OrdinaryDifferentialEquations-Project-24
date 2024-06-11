@@ -1,0 +1,12 @@
+DEDSAC:
+  type: Book
+  title: Differential Equations, Dynamical Systems, And An Introduction To Chaos
+  author: 
+    - Morris W. Hirsch
+    - Stephen Smale
+    - Robert L. Devaney
+
+AIDSAC:
+  type: Book
+  title: An Introduction to Dynamical Systems and Chaos
+  author: G.C. Layek
