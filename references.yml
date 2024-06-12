@@ -16,7 +16,7 @@ AIDSAC:
   date: 2015
 
 AFCID:
-  type: book
+  type: Book
   title: A FIRST COURSE IN DYNAMICS with a Panorama of Recent Developments
   author: 
     - Boris, Hasselblatt
@@ -25,14 +25,14 @@ AFCID:
   date: 2003
 
 ODEADS:
-  type: book
+  type: Book
   title: Ordinary Differential Equations and Dynamical Systems
   author: Gerald, Teschi
   publisher: American Mathematical Society
   date: 2012
 
 DSBE:
-  type: book
+  type: Book
   title: Dynamical Systems by Example
   author:
     - Luís, Barreira
@@ -41,10 +41,11 @@ DSBE:
   date: 2019
 
 ITDS:
-  type: book
+  type: Book
   title: Introduction to Dynamical Systems
   author: 
     - Michael,Brin
     - Garrett,Stuck
-
+  publisher: Cambridge University Press
+  date: 2004
 
