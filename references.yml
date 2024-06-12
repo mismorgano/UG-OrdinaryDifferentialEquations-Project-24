@@ -2,11 +2,49 @@ DEDSAC:
   type: Book
   title: Differential Equations, Dynamical Systems, And An Introduction To Chaos
   author: 
-    - Morris W. Hirsch
-    - Stephen Smale
-    - Robert L. Devaney
+    - Morris W, Hirsch
+    - Stephen, Smale
+    - Robert L, Devaney
+  publisher: ELSEVIER
+  date: 2013
 
 AIDSAC:
   type: Book
   title: An Introduction to Dynamical Systems and Chaos
-  author: G.C. Layek
+  author: G.C, Layek
+  publisher: Springer
+  date: 2015
+
+AFCID:
+  type: book
+  title: A FIRST COURSE IN DYNAMICS with a Panorama of Recent Developments
+  author: 
+    - Boris, Hasselblatt
+    - Anatole, Katok
+  publisher: Cambridge University Press
+  date: 2003
+
+ODEADS:
+  type: book
+  title: Ordinary Differential Equations and Dynamical Systems
+  author: Gerald, Teschi
+  publisher: American Mathematical Society
+  date: 2012
+
+DSBE:
+  type: book
+  title: Dynamical Systems by Example
+  author:
+    - Luís, Barreira
+    - Claudia, Valls
+  publisher: Springer
+  date: 2019
+
+ITDS:
+  type: book
+  title: Introduction to Dynamical Systems
+  author: 
+    - Michael,Brin
+    - Garrett,Stuck
+
+
